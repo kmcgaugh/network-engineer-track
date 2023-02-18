@@ -2,6 +2,10 @@
 Start reviewing the fundamentals of networking and make sure you can grasp it all. 
 * If you do not understand the fundamentals, you won't become the engineer.
 
+# The Next Step
+* Learning to automate Cisco LAN with Python/Ansible
+* Cisco DEVNET Associate
+
 # The Next Skills
 * Network Automation (Python/Ansible, DEVNET, and Cisco ACI)
 * SDN (SD-WAN/SD-ACCESS)
