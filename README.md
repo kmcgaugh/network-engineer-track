@@ -3,6 +3,7 @@ Start reviewing the fundamentals of networking and make sure you can grasp it al
 * If you do not understand the fundamentals, you won't become the engineer.
 
 # The Next Step
+* Obtain the FortiNet NSE4 Certification by April 2023
 * Learning to automate Cisco LAN with Python/Ansible
 * Cisco DEVNET Associate
 
