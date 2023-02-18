@@ -17,4 +17,4 @@ Start reviewing the fundamentals of networking and make sure you can grasp it al
 * Labs
 * Volunteering (charity: church, soccer team, public park, or something)
 * Join an open source project (write docs or develop)
-
+![image](https://user-images.githubusercontent.com/124458781/219883817-788fd01d-15ae-4203-a233-5d7db500ab8c.png)
