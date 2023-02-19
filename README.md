@@ -14,7 +14,7 @@ Start reviewing the fundamentals of networking and make sure you can grasp it al
 
 # The Skill Roadmap
 ![image](https://user-images.githubusercontent.com/124458781/219883839-c8cf9b64-32e4-4e55-8b96-b7da0a9e6ef0.png)
-
+NOTICE: This is not my image. Credit goes to Ernesto Ovcharenko. I added this image for ease of access. See this github repo: https://github.com/eovchar/neteng-roadmap
 
 # Building your Brand
 * Github or gitlab website
